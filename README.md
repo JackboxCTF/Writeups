@@ -1,2 +1,2 @@
-# Writeups
-CTF Writeups
+# Jackbox Writeups
+
